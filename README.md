@@ -29,7 +29,7 @@ Direktur Pelayanan & Bisnis PT Transportasi Jakarta punya misi! Yaitu untuk **me
 ### **Hasil yang di Harapkan**
 Dalam menjawab pertanyaan di atas, kita akan melakukan **Exploratory Data Analysis** (EDA) dan memperoleh informasi seperti berikut:
 1. **Analisis Rute Perjalanan** :
-    1.Rute/Corridor yang paling sering digunakan
+    1. Rute/Corridor yang paling sering digunakan
     2. Halte yang paling ramai
 2. **Analisis Waktu Perjalanan** :
     1. Peak Hour 
