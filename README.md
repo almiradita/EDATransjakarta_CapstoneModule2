@@ -6,7 +6,7 @@ Selamat datang di proyek saya! Ini adalah bagian dari perjalanan saya di bootcam
 # **Outline**
 
 Project ini terdiri dari:
-1. [Jupyter Notebook](https://github.com/almiradita/Capstone-M2-EDA-Transjakarta/blob/b8d44c26ae9afc2a767b0ee3adcbd2ce153bb5dd/EDATransjakarta_CM2.ipynb) untuk *Exploratory Data Analysis* yang terperinci 
+1. [Jupyter Notebook](https://github.com/almiradita/EDATransjakarta_CapstoneModule2/blob/8e52b8d8329490a3a41bc901d544d12772af10a5/EDATransjakarta_CM2.ipynb) untuk *Exploratory Data Analysis* yang terperinci 
 2. [Tableau Story & Dashboard](https://public.tableau.com/views/Transjakarta_CapstoneModule2/HasilAnalisis?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) untuk visualisasi data
 
 # **Overview**
