@@ -1,7 +1,7 @@
 # **READ ME**
 Halo semuanya! 🎉
 
-Selamat datang di proyek saya! Ini adalah bagian dari perjalanan saya di bootcamp Data Science di Purwadhika. Di sini saya mencoba menerapkan ilmu yang sudah saya pelajari untuk menyelesaikan Capstone Module 2 Project mengenai Exploratory Data Analysis (EDA). Lebih dari itu, proyek ini juga adalah cerminan dari perjalanan saya menjadi seorang Data Scientist yang handal. 🚀
+Selamat datang di proyek saya! Ini adalah bagian dari perjalanan saya di bootcamp Data Science di Purwadhika. Di sini saya mencoba menerapkan ilmu yang sudah saya pelajari untuk menyelesaikan Capstone Module 2 Project mengenai *Exploratory Data Analysis* (EDA). Lebih dari itu, proyek ini juga adalah cerminan dari perjalanan saya menjadi seorang Data Scientist yang handal. 🚀
 
 # **Outline**
 
